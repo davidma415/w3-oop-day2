@@ -43,6 +43,3 @@ class Product
   end
 
 end
-
-lettuce = Product.new('lettuce', 2.69, 'exempt', 5)
-p lettuce
